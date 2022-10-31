@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'az-beta-poc-as-pdm'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9A3D542CEF3C40EAA3076A071F337595 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9B651D875CF04600A11AB2C14E26089F }}
           package: .
